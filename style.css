@@ -34,10 +34,10 @@ p{
     padding: 20px;
 }
 .half-width img{
-    width: 410px;
-    height: 420px;
-    padding-left: 48%;
+    width: 700px;
+    height: 500px;
     padding-top: 3%;
+
 }
 .link_button{
    text-decoration: none;
@@ -48,8 +48,8 @@ p{
    font-weight: bold;
 }
 .width img{
-    height: 480px;
-    width: 650px;
+    height: 500px;
+    width: 653px;
     margin-bottom: 6%;
 }
 .width p{
